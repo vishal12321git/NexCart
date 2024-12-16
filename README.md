@@ -22,7 +22,7 @@ Follow the instructions below to run the project on your local machine.
    VITE_API_URL=
 4. npm run dev
 
-### Run the Server
+### Run the Server ( Backend )
 
 1. cd server 
 2. npm install
